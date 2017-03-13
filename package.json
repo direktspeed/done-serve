@@ -46,6 +46,6 @@
     "socket.io-client": "^1.4.5",
     "spawn-mochas": "^1.1.0",
     "steal-tools": "^0.16.8",
-    "testdouble": "^1.4.1"
+    "testdouble": "^2.0.1"
   }
 }

@@ -36,7 +36,7 @@
     "infanticide": "^1.0.1"
   },
   "devDependencies": {
-    "can": "^2.3.20",
+    "can": "^3.8.1",
     "copy-dir": "0.3.0",
     "done-autorender": "^0.8.0",
     "jquery": "^3.1.1",

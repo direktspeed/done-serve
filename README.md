@@ -3,6 +3,8 @@
 
 # done-serve
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/steal-serve.svg)](https://greenkeeper.io/)
+
 A simple development server for DoneJS projects.
 
 - [Install](#install)
